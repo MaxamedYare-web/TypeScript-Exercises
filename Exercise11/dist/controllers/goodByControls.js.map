@@ -1,0 +1,1 @@
+{"version":3,"file":"goodByControls.js","sourceRoot":"","sources":["../../src/controllers/goodByControls.ts"],"names":[],"mappings":";;;AAGO,MAAM,UAAU,GAAG,CAAC,GAAW,EAAC,GAAY,EAAC,EAAE;IAElD,MAAM,IAAI,GAAG,GAAG,CAAC,KAAK,CAAC,IAAI,CAAA;IAC3B,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC;QACjB,OAAO,EAAE,gBAAgB,IAAI,EAAE;KAClC,CAAC,CAAA;AAEN,CAAC,CAAA;AAPY,QAAA,UAAU,cAOtB"}
